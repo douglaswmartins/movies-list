@@ -1,0 +1,595 @@
+{
+  "movies": [
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "id": 508943,
+      "overview": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!",
+      "poster": "https://image.tmdb.org/t/p/w300/1lk7QISmTam2iOzzUAQYs6voeFg.jpg",
+      "year": "2021",
+      "title": "Luca",
+      "vote_average": 8.2,
+      "vote_count": 1147,
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Família",
+        "Fantasia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/z2UtGA1WggESspi6KOXeo66lvLx.jpg",
+      "id": 520763,
+      "overview": "Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.",
+      "poster": "https://image.tmdb.org/t/p/w300/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg",
+      "year": "2021",
+      "title": "Um Lugar Silencioso - Parte II",
+      "vote_average": 7.4,
+      "vote_count": 461,
+      "genres": [
+        "Ficção Científica",
+        "Suspense",
+        "Terror"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg",
+      "id": 581726,
+      "overview": "Adaptação cinematográfica do livro The Reincarnationist Papers, que conta a história de Evan Michael, um homem assombrado pelas memórias de suas duas vidas passadas que vê sua vida mudar quando encontra a sociedade secreta \"Cognomina\", da qual os membros possuem todas as lembranças de suas antigas existências.",
+      "poster": "https://image.tmdb.org/t/p/w300/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "year": "2021",
+      "title": "Infinite",
+      "vote_average": 0,
+      "vote_count": 0,
+      "genres": [
+        "Ficção Científica",
+        "Ação",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+      "id": 337404,
+      "overview": "Na Londres dos anos 70 em meio à revolução do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si através de seus designs. Ela faz amizade com uma dupla de jovens ladrões e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a atenção da Baronesa Von Hellman, uma lenda fashion que é devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revelações que farão com que Estella abrace seu lado rebelde e se torne a Cruella má, elegante e voltada para a vingança.",
+      "poster": "https://image.tmdb.org/t/p/w300/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg",
+      "year": "2021",
+      "title": "Cruella",
+      "vote_average": 8.5,
+      "vote_count": 3284,
+      "genres": [
+        "Comédia",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+      "id": 385128,
+      "overview": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
+      "poster": "https://image.tmdb.org/t/p/w300/8L4Mep3KDUK4ztUgf2HlPvUVzZy.jpg",
+      "year": "2021",
+      "title": "Velozes & Furiosos 9",
+      "vote_average": 7.9,
+      "vote_count": 207,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": null,
+      "id": 385687,
+      "overview": "Décimo filme da série Velozes & Furiosos, e último da nova trilogia (Velozes 8, 9 e 10). O longa traz Dominic Toretto (Vin Diesel) comandando novamente a equipe de corredores mais conhecida do mundo, em mais uma difícil missão sobre quatro rodas.",
+      "poster": "https://image.tmdb.org/t/p/w300/2DyEk84XnbJEdPlGF43crxfdtHH.jpg",
+      "year": "2021",
+      "title": "Velozes & Furiosos 10",
+      "vote_average": 0,
+      "vote_count": 0,
+      "genres": [
+        "Ação",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+      "id": 423108,
+      "overview": "Revela uma história arrepiante de terror, assassinato e um mal desconhecido que chocou até os investigadores paranormais da vida real, Ed e Lorraine Warren. Um dos casos mais intrigantes de seus arquivos, começa com uma luta pela alma de um garoto, depois os leva além de tudo o que já haviam visto antes, para marcar a primeira vez na história dos EUA um suspeito de assassinato alega possessão demoníaca como defesa.",
+      "poster": "https://image.tmdb.org/t/p/w300/8jBgDFFDYz8WHxiOBJ7GBiMM6Pe.jpg",
+      "year": "2021",
+      "title": "Invocação do Mal 3: A Ordem do Demônio",
+      "vote_average": 8.1,
+      "vote_count": 2550,
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "id": 637649,
+      "overview": "Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.",
+      "poster": "https://image.tmdb.org/t/p/w300/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg",
+      "year": "2021",
+      "title": "Infiltrado",
+      "vote_average": 7.8,
+      "vote_count": 1093,
+      "genres": [
+        "Crime",
+        "Ação",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/3RMbkXS4ocMmoJyAD3ZsWbm32Kx.jpg",
+      "id": 615658,
+      "overview": "O caos se instala no planeta depois que um acontecimento global neutraliza todos os equipamentos eletrônicos e acaba com a capacidade humana de dormir. Mas Jill (Gina Rodriguez), uma ex-militar com um passado problemático, pode ter a chave para a cura: sua própria filha.",
+      "poster": "https://image.tmdb.org/t/p/w300/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg",
+      "year": "2021",
+      "title": "Awake",
+      "vote_average": 6.2,
+      "vote_count": 360,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama",
+        "Ficção Científica",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/9WlJFhOSCPnaaSmsrv0B4zA8iUb.jpg",
+      "id": 503736,
+      "overview": "Após um surto de zumbis em Las Vegas, nos Estados Unidos, um grupo de mercenários faz uma aposta final, aventurando-se na zona de quarentena para tentar realizar o maior assalto de todos os tempos.",
+      "poster": "https://image.tmdb.org/t/p/w300/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg",
+      "year": "2021",
+      "title": "Army of the Dead: Invasão em Las Vegas",
+      "vote_average": 6.5,
+      "vote_count": 1704,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Ficção Científica",
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+      "id": 460465,
+      "overview": "O lutador de MMA Cole Young não conhece sua herança, nem sabe o motivo do Imperador da Exoterra ter enviado seu melhor guerreiro, Sub-Zero, para ir atrás dele. Temendo pela segurança de sua família, ele se une a outros heróis para proteger a Terra.",
+      "poster": "https://image.tmdb.org/t/p/w300/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg",
+      "year": "2021",
+      "title": "Mortal Kombat",
+      "vote_average": 7.5,
+      "vote_count": 3101,
+      "genres": [
+        "Ação",
+        "Fantasia",
+        "Aventura"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+      "id": 399566,
+      "overview": "Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.",
+      "poster": "https://image.tmdb.org/t/p/w300/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg",
+      "year": "2021",
+      "title": "Godzilla vs. Kong",
+      "vote_average": 8,
+      "vote_count": 6145,
+      "genres": [
+        "Fantasia",
+        "Aventura",
+        "Ação"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/A0xW7GgeFQoQmPOn7HcHkBQ5nlb.jpg",
+      "id": 817451,
+      "overview": "Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de um safari no Quênia, abaixo do sol escaldante africano. Mas sozinhos no parque selvagem, eles acabam ficando reféns de forças da natureza quando são rodeados por um leopardo e um grupo de hienas famintas.",
+      "poster": "https://image.tmdb.org/t/p/w300/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg",
+      "year": "2021",
+      "title": "Espécies em Perigo",
+      "vote_average": 6.6,
+      "vote_count": 48,
+      "genres": [
+        "Suspense",
+        "Ação"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+      "id": 632357,
+      "overview": "Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.",
+      "poster": "https://image.tmdb.org/t/p/w300/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg",
+      "year": "2021",
+      "title": "Rogai por Nós",
+      "vote_average": 7,
+      "vote_count": 1043,
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/7JENyUT8ABxcvrcijDBVpdjgCY9.jpg",
+      "id": 602734,
+      "overview": "Sob o comando do veterano da polícia Marcus, o detetive Ezekiel \"Zeke\" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino.",
+      "poster": "https://image.tmdb.org/t/p/w300/3OneyM3YB6WPdvrfdixL17MXH3J.jpg",
+      "year": "2021",
+      "title": "Espiral: O Legado de Jogos Mortais",
+      "vote_average": 6.4,
+      "vote_count": 441,
+      "genres": [
+        "Mistério",
+        "Suspense",
+        "Terror"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/gGSm6ZmWtGazs2H1m0gOp7cx1ZZ.jpg",
+      "id": 726429,
+      "overview": "Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.",
+      "poster": "https://image.tmdb.org/t/p/w300/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg",
+      "year": "2021",
+      "title": "Xtremo",
+      "vote_average": 7.2,
+      "vote_count": 101,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+      "id": 567189,
+      "overview": "Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.",
+      "poster": "https://image.tmdb.org/t/p/w300/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
+      "year": "2021",
+      "title": "Sem Remorso",
+      "vote_average": 7.2,
+      "vote_count": 1224,
+      "genres": [
+        "Ação",
+        "Suspense",
+        "Guerra"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg",
+      "id": 384018,
+      "overview": "Desde que se conheceram, em \"Velozes & Furiosos 7\", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.",
+      "poster": "https://image.tmdb.org/t/p/w300/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+      "year": "2019",
+      "title": "Velozes & Furiosos: Hobbs & Shaw",
+      "vote_average": 6.9,
+      "vote_count": 4993,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/ro0Ctqoy4adO1K2T9JYHNYMJN0M.jpg",
+      "id": 607259,
+      "overview": "Neste filme inspirado em uma história real, um pai viúvo lida com dúvidas, medos, decepções e mamadeiras ao assumir a tarefa de criar sua filha sozinho.",
+      "poster": "https://image.tmdb.org/t/p/w300/pR2fzm82fl0giommpo310LBOMbV.jpg",
+      "year": "2021",
+      "title": "Paternidade",
+      "vote_average": 8.1,
+      "vote_count": 311,
+      "genres": [
+        "Drama",
+        "Família",
+        "Comédia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg",
+      "id": 804435,
+      "overview": "Uma mãe, Victoria, está tentando deixar seu passado sombrio como uma entregadora de drogas russa para trás, mas o policial aposentado Damon força Victoria a cumprir suas ordens, mantendo sua filha como refém.",
+      "poster": "https://image.tmdb.org/t/p/w300/AoWY1gkcNzabh229Icboa1Ff0BM.jpg",
+      "year": "2021",
+      "title": "Vanquish",
+      "vote_average": 6,
+      "vote_count": 129,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+      "id": 635302,
+      "overview": "Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que usa uma cabeça de javali, e Zenitsu Agatsuma, um garoto assustado que revela seu verdadeiro poder quando dorme, embarca no Trem Infinito em uma nova missão com o Hashira de Fogo, Kyojuro Rengoku, para derrotar um demônio que tem atormentado o povo e matado os caçadores de oni que se opõem a ele!",
+      "poster": "https://image.tmdb.org/t/p/w300/m2FNRngyJMyxLatBMJR8pbeG2v.jpg",
+      "year": "2020",
+      "title": "Demon Slayer - Mugen Train: O Filme",
+      "vote_average": 8.4,
+      "vote_count": 1257,
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/efrdAWS63s8TTWdrI2uNdIhn1dj.jpg",
+      "id": 808023,
+      "overview": "Um estranho solitário, seguro, com nervos de aço, deve rastrear e matar um Hitman desonesto para saldar uma dívida pendente. Mas a única informação que ele recebeu é a hora e o local onde encontrar sua presa - 17h em um restaurante rústico na cidade agonizante. Sem nome, sem descrição, nada. Quando o assassino chega, existem vários alvos possíveis, incluindo o xerife do condado. Colocando sua vida em perigo, o assassino embarca em uma caça ao homem para encontrar o Hitman e cumprir sua missão. Mas o perigo aumenta quando os encontros eróticos com uma mulher local ameaçam atrapalhar sua tarefa.",
+      "poster": "https://image.tmdb.org/t/p/w300/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg",
+      "year": "2021",
+      "title": "The Virtuoso",
+      "vote_average": 6.4,
+      "vote_count": 141,
+      "genres": [
+        "Suspense",
+        "Ação",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+      "id": 550205,
+      "overview": "Din, um jovem estudante e sonhador, e Long, um sarcástico e poderoso dragão que realiza desejos, vivem altas aventuras na Xangai contemporânea enquanto procuram Lina, amiga de infância de Din. Nessa jornada, os dois acabam tendo que buscar respostas para as grandes questões da vida, afinal, quando você pode ter quase qualquer desejo realizado, é preciso decidir o que realmente importa.",
+      "poster": "https://image.tmdb.org/t/p/w300/hNhGNWn4Z9S77cOuYn2ZWfC9E7b.jpg",
+      "year": "2021",
+      "title": "Din e o Dragão Genial",
+      "vote_average": 8.4,
+      "vote_count": 230,
+      "genres": [
+        "Animação",
+        "Família",
+        "Comédia",
+        "Fantasia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "id": 791373,
+      "overview": "Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.",
+      "poster": "https://image.tmdb.org/t/p/w300/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
+      "year": "2021",
+      "title": "Liga da Justiça de Zack Snyder",
+      "vote_average": 8.4,
+      "vote_count": 5859,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Ficção Científica"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg",
+      "id": 615457,
+      "overview": "Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais.  Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.",
+      "poster": "https://image.tmdb.org/t/p/w300/woPYFGKwVULILbO7q44HmsNY0kO.jpg",
+      "year": "2021",
+      "title": "Anônimo",
+      "vote_average": 8.4,
+      "vote_count": 2248,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg",
+      "id": 578701,
+      "overview": "Hannah, uma bombeira ainda abalada pela perda de três vidas que não conseguiu salvar de um incêndio, se depara com um menino de 12 anos traumatizado, perseguido por assasinos e sem ninguém a quem recorrer contra um incêndio florestal no deserto de Montana.",
+      "poster": "https://image.tmdb.org/t/p/w300/qNi8uFKHAN5qt9UU5PpDi8cjWj1.jpg",
+      "year": "2021",
+      "title": "Aqueles Que Me Desejam a Morte",
+      "vote_average": 7,
+      "vote_count": 540,
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Ação",
+        "Mistério"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+      "id": 527774,
+      "overview": "O reino encantado Kumandra é dividido em cinco regiões e sua população venerava os dragões mágicos que eram presentes no reino, porém quando uma força maligna ameaçou a Terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra fraturada e seu povo dividido.",
+      "poster": "https://image.tmdb.org/t/p/w300/yXrb84zJidCefyhTWHwo4yCDvwz.jpg",
+      "year": "2021",
+      "title": "Raya e o Último Dragão",
+      "vote_average": 8.1,
+      "vote_count": 3515,
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Fantasia",
+        "Família",
+        "Ação"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+      "id": 726684,
+      "overview": "Ladybug decide visitar seu tio em Xangai, mas quando chega a cidade acaba sendo roubada e os ladrões levam sua bolsa com o Tikki. Sem dinheiro e sozinha na cidade, a heroína aceita a ajuda de uma jovem inteligente chamada Fei. As duas então se juntam em uma grande aventura e descobrem e existência de uma nova joia poderosa.",
+      "poster": "https://image.tmdb.org/t/p/w300/tf9nWFyJ745mBFkXZtPWabDYBR3.jpg",
+      "year": "2021",
+      "title": "Miraculous World: Xangai, a Lenda de Ladydragon",
+      "vote_average": 7.9,
+      "vote_count": 435,
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Família",
+        "Aventura"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/c7dFSqZQYqNNJVpacpIGZe3gkLW.jpg",
+      "id": 813258,
+      "overview": "Em Monster Pets (Monstros de Companhia), o cão Tinkles dá o seu melhor para arranjar um amigo",
+      "poster": "https://image.tmdb.org/t/p/w300/dkokENeY5Ka30BFgWAqk14mbnGs.jpg",
+      "year": "2021",
+      "title": "Pets Monstruosos",
+      "vote_average": 7.6,
+      "vote_count": 168,
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Fantasia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/fejok33Ijc6SppiEU1cfwA9Mo2.jpg",
+      "id": 717192,
+      "overview": "Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.",
+      "poster": "https://image.tmdb.org/t/p/w300/w6n1pu9thpCVHILejsuhKf3tNCV.jpg",
+      "year": "2021",
+      "title": "Ferry",
+      "vote_average": 7,
+      "vote_count": 109,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/bwdADfvTcWAkOpX9wDV7fG9XccW.jpg",
+      "id": 522406,
+      "overview": "Fred é um jovem de quase 30 anos, com a vida adulta cada vez mais eminente, ele passa a se questionar sobre uma série de assuntos aleatórios que, por conta de sua instabilidade emocional, parecem ser extremamente relevantes. Em paralelo, ele tenta desvendar os mistérios relacionados ao sumiço de uma jovem mulher, uma droga chamada Mercury e a uma terrível criatura que o assombra desde a infância.",
+      "poster": "https://image.tmdb.org/t/p/w300/aACAYcMi22NSfkxzSeD0SHDqFrF.jpg",
+      "year": "2021",
+      "title": "Flashback",
+      "vote_average": 7,
+      "vote_count": 73,
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Mistério"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+      "id": 337339,
+      "overview": "Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.",
+      "poster": "https://image.tmdb.org/t/p/w300/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg",
+      "year": "2017",
+      "title": "Velozes & Furiosos 8",
+      "vote_average": 6.9,
+      "vote_count": 8282,
+      "genres": [
+        "Ação",
+        "Crime",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/gPKcJzrbgs1670fOeKN1xQH9mNa.jpg",
+      "id": 823855,
+      "overview": "Uma detetive implacável se une a uma assassina que ataca os integrantes de uma quadrilha de tráfico de crianças.",
+      "poster": "https://image.tmdb.org/t/p/w300/gWBXydaQ9vX3OIf0f1wNQ9Z0ElQ.jpg",
+      "year": "2021",
+      "title": "Eu Sou Todas as Meninas",
+      "vote_average": 6.7,
+      "vote_count": 122,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mistério",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/7vCOBYP52Mm8Nlc09hLUtWfxHjJ.jpg",
+      "id": 767304,
+      "overview": "Um fuzileiro naval dos EUA se infiltra em um grupo terrorista para salvar reféns americanos.",
+      "poster": "https://image.tmdb.org/t/p/w300/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg",
+      "year": "2021",
+      "title": "Dia da Redenção",
+      "vote_average": 7.1,
+      "vote_count": 114,
+      "genres": [
+        "Ação",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
+      "id": 634528,
+      "overview": "Um fazendeiro na fronteira do Arizona se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os EUA.",
+      "poster": "https://image.tmdb.org/t/p/w300/wAJniojhHa4oVKa9AxdNwvpmS74.jpg",
+      "year": "2021",
+      "title": "Na Mira do Perigo",
+      "vote_average": 7.4,
+      "vote_count": 590,
+      "genres": [
+        "Ação",
+        "Suspense",
+        "Crime"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/yC4DRg5aGgNpkHpUDpLtBqzownS.jpg",
+      "id": 586047,
+      "overview": "Ki-Hun é um ex-agente da agência de inteligência. Seo Bok  é o primeiro clone humano de todos os tempos e ele possui o segredo da vida eterna. Ki-Hun se envolve em situações perigosas devido a várias forças que querem tomar posse de Seo Bok.",
+      "poster": "https://image.tmdb.org/t/p/w300/xdrFKWpUx2JjK7BeUJGA5iaI5rA.jpg",
+      "year": "2021",
+      "title": "Seobok",
+      "vote_average": 7.7,
+      "vote_count": 60,
+      "genres": [
+        "Ficção Científica",
+        "Ação"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/xmeTp6can93XCqMuOJ0YEGJbDFK.jpg",
+      "id": 811367,
+      "overview": "Antes dos eventos de “Soul” da Pixar, 22 se recusa a ir para a Terra, e recruta uma gangue de 5 outras novas almas em uma tentativa de rebelião. No entanto, enquanto as atividades de seus recrutas acabam levando a resultados inesperados, a conspiração subversiva de 22 pode levar a uma revelação surpreendente sobre o significado da vida.",
+      "poster": "https://image.tmdb.org/t/p/w300/yXhjueyyNNrGinwM9WIxuwNqzbm.jpg",
+      "year": "2021",
+      "title": "22 Contra a Terra",
+      "vote_average": 7.2,
+      "vote_count": 151,
+      "genres": [
+        "Família",
+        "Animação",
+        "Comédia"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
+      "id": 581387,
+      "overview": "Estagnado desde 1903, a 9000 pés de altitude, um vulcão entra em erupção na Montanha Baekdu, localizada na fronteira entre a China e a Coreia do Norte. Armado com a ameaça de erupções iminentes, uma equipe de profissionais treinados exclusivamente da Coreia do Sul e do Norte se unem. Juntos, eles devem unir forças e tentar evitar um desastre catastrófico que ameaça a Península Coreana.",
+      "poster": "https://image.tmdb.org/t/p/w300/yCusqunCMU84z32OK0kyZMnTH45.jpg",
+      "year": "2019",
+      "title": "Alerta Vermelho",
+      "vote_average": 6.4,
+      "vote_count": 276,
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "backdrop": "https://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+      "id": 464052,
+      "overview": "Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.",
+      "poster": "https://image.tmdb.org/t/p/w300/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg",
+      "year": "2020",
+      "title": "Mulher-Maravilha 1984",
+      "vote_average": 6.7,
+      "vote_count": 5379,
+      "genres": [
+        "Fantasia",
+        "Ação",
+        "Aventura"
+      ]
+    }
+  ]
+}
