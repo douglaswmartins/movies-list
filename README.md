@@ -1,27 +1,36 @@
-# MoviesList
+<h1
+  align="center"
+>
+  Movie List
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+## :computer: Sobre Projeto
 
-## Development server
+#### Uma Simples listagem de filmes utilizando Grid.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## :rocket: Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![HTLM5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :gear: Iniciando Projeto
 
-## Running unit tests
+### Instalando as Dependências
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`npm install`
 
-## Running end-to-end tests
+`npm install -g json-server`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Iniciando o BACKEND
 
-## Further help
+`npm run api` ou `json-server backend/FILMES.json`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Inicializando o FRONTEND
+
+`npm start` ou `ng serve`
