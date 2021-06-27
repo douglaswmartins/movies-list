@@ -1,16 +1,25 @@
 <div class="container">
 
+  <div class="wrap-filters">
+    
+    <i class="fas fa-search"></i>
+    <input type="text" class="input-search" [(ngModel)]="search"
+          (keyup)="handleSearch()" placeholder="Buscar..." />
+
+  </div>
+
   <h1 class="title">
     Filmes
   </h1>
-
   <main>
 
-    <div class="wrap-movie" *ngFor="let movie of movies">
+    <div class="wrap-movie" *ngFor="let movie of moviesFiltered">
+      
       <div class="poster">
+        <i class="far fa-image"></i>
         <img [src]="movie.poster" [alt]="movie.title">
-        <div class="synopsis">
 
+        <div class="synopsis">
           <h2>{{ movie.genres.join(' - ') }}</h2>
           <span>Gêneros</span>
 
@@ -18,8 +27,8 @@
           <span>Diretor</span>
 
           <p>{{ movie.overview }}</p>
-
         </div>
+
       </div>
 
       <div class="info">
@@ -27,12 +36,6 @@
         <p>
           {{ movie.year }}
         </p>
-<!-- 
-        nome,
-        ano,
-        diretor,
-        gênero,
-        descrição e pôster -->
       </div>
 
     </div>
