@@ -1,0 +1,96 @@
+.container {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+.container main {
+  width: 100%;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.wrap-movie {
+  width: 100%;
+  transition: all 350ms;
+  transform: scale(1);
+}
+
+.wrap-movie .poster {
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+}
+
+.wrap-movie img {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap-movie .info {
+  color: #ffffff;
+  padding: 8px;
+  background-color: #000000;
+}
+
+.info h2 {
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.wrap-movie .info p {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.synopsis {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  padding: 10px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-sizing: border-box;
+  backdrop-filter: blur(17px);
+
+  opacity: 0;
+  visibility: hidden;
+  transition: all 350ms;
+  cursor: default;
+}
+
+.synopsis h2 span {
+  font-weight: 300;
+}
+
+.wrap-movie .synopsis span {
+  display: block;
+  font-size: 12px;
+  font-weight: 100;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.wrap-movie .synopsis p {
+  font-size: 13px;
+}
+
+.wrap-movie:hover .synopsis {
+  opacity: 1;
+  visibility: visible;
+}
+
+.wrap-movie:hover {
+  transform: scale(1.02);
+  box-shadow: 3px 6px 8px 1px black;
+}
