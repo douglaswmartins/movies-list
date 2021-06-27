@@ -6,7 +6,7 @@
 
 ## :computer: Sobre Projeto
 
-#### Uma Simples listagem de filmes utilizando Grid.
+#### Uma Simples listagem de filmes utilizando Grid para desenvolver o layout e json-server para armazenar os dados da listagem.
 
 ---
 
