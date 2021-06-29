@@ -1,0 +1,147 @@
+button.save {
+  margin-left: 15px;
+}
+
+.wrap-form {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  margin-bottom: 40px;
+}
+
+.fields-form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.field {
+  width: 100%;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.field-upload {
+  min-width: 200px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.field label {
+  width: 100%;
+  margin-bottom: 3px;
+}
+
+.field input, 
+.field select,
+.field textarea {
+  width: 100%;
+  font-size: 18px;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.field-upload input[type="file"] {
+  display: none;
+}
+
+.field-upload label {
+  width: 200px;
+  height: 300px;
+  margin-top: 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #F5F5F5;
+
+  transition: transform 350ms, box-shadow 350ms;
+  transform: translateX(0);
+}
+
+.field-upload label p {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  padding: 10px;
+  color: #303030;
+  z-index: 2;
+  
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.field-upload .img-poster {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+  position: absolute;
+}
+
+.field-upload label.active p {
+  opacity: 0;
+  color: #ffffff;
+  visibility: hidden;
+  backdrop-filter: blur(17px);
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: opacity 250ms, visibility 250ms;
+}
+
+.field-upload label.active:hover p {
+  opacity: 1;
+  visibility: visible;
+}
+
+.field-upload label:hover {
+  transform: translateY(-10px);
+  box-shadow: 3px 6px 8px 1px black;
+}
+
+
+.field-upload label i {
+  opacity: .7;
+  font-size: 50px;
+}
+
+.field-genres {
+  width: 100%;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.field-genres label {
+  font-size: 18px;
+  cursor: pointer;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.list-genres {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item-genres {
+  display: flex;
+  flex-basis: 250px;
+}
+
+@media screen and (max-width: 600px) {
+  .wrap-form {
+    flex-wrap: wrap;
+  }
+
+  .fields-form,
+  .field-upload {
+    width: 100%;
+  }
+}

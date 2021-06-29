@@ -1,0 +1,76 @@
+<form (ngSubmit)="onSubmit()" [formGroup]="movieForm" >
+  <h1>Cadastro</h1>
+
+  <div class="wrap-form">
+
+    <div class="fields-form">
+
+      <div class="field">
+        <label for="title">Título</label>
+        <input type="text" id="title" 
+               placeholder="Título" formControlName="title" />
+      </div>
+
+      <div class="field">
+        <label for="director">Diretor</label>
+        <input type="text" id="director" 
+               placeholder="Diretor" formControlName="director" />
+      </div>
+
+      <div class="field">
+        <label for="year">Ano</label>
+        <input type="number" id="year" 
+               placeholder="Ano" formControlName="year" />
+      </div>
+
+      <div class="field">
+        <label for="overview">Sinopse</label>
+        <textarea type="text" id="overview" rows="4"
+                  placeholder="Sinopse" formControlName="overview"></textarea>
+      </div>
+
+      <div class="field-genres">
+        <label>Gêneros</label>
+
+        <div class="list-genres">
+          <div class="item-genres" *ngFor="let item of genres">
+            <input type="checkbox" [id]="item.id" (change)="handleCheckGenres($event)" [value]="item.name"/>
+            <label [for]="item.id">{{item.name}}</label>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="field-upload">
+  
+      <label for="poster" [ngClass]="{active: image}">
+        <img class="img-poster" [src]="image" alt="imagem de poster" *ngIf="image">
+
+        <p>
+          <i class="fas fa-cloud-upload-alt"></i>
+          Clique aqui para selecionar uma imagem <br>
+          200x300
+        </p>
+      </label>
+      
+      <input id="poster" type="file"
+             accept="image/*" (change)="uploadImage($event)" />
+  
+    </div>
+    
+  </div>
+  
+  <div class="wrap-actions">
+
+    <button type="button" class="cancel" (click)="returnToList()" [disabled]="loading">
+      Cancelar
+    </button>
+    <button type="submit" class="save" [disabled]="movieForm.invalid || loading">
+      Salvar
+    </button>
+
+  </div>
+
+</form>

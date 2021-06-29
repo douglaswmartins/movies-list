@@ -16,11 +16,87 @@ body {
   background: #353535;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p, label {
   color: #FFFFFF;
   margin: 0;
 }
 
-input, button {
+input, button, textarea, select {
   outline: transparent;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+textarea {
+  resize: none;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+button {
+  cursor: pointer;
+  border: 0;
+  padding: 5px 20px;
+  flex-wrap: nowrap;
+  margin: 0;
+  height: 40px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 0px #0000003b;
+  transition: all 250ms;
+}
+
+button:disabled {
+  opacity: .6;
+  cursor: not-allowed;
+}
+
+button:active {
+  box-shadow: 2px 2px 6px 3px #0000003b;
+}
+
+button.add {
+  color: #ffffff;
+  background: #007bff;
+}
+button.add:hover {
+  background: #0069d9;
+}
+
+button.save {
+  color: #ffffff;
+  background: #28a745;
+}
+
+button.save:hover {
+  background: #218838;
+}
+
+button.cancel {
+  color: #ffffff;
+  background: #dc3545;
+}
+
+button.cancel:hover {
+  background: #c82333;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
 }

@@ -1,6 +1,10 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+
 import { environment } from 'src/environments/environment';
+
+import { Movie } from './model/Movie';
+import { Genre } from './model/Genre';
 
 @Injectable({
   providedIn: 'root'
@@ -13,10 +17,14 @@ export class MoviesService {
   ) { }
 
   async getMovies() {
-    return await this.http.get<any>(`${this.BACKEND_URL}movies`).toPromise();
+    return await this.http.get<Movie[]>(`${this.BACKEND_URL}movies`).toPromise();
+  }
+
+  async postMovie(obj: Movie) {
+    return await this.http.post(`${this.BACKEND_URL}movies`, obj).toPromise();
   }
 
   async getGenres() {
-    return await this.http.get<any>(`${this.BACKEND_URL}genres`).toPromise();
+    return await this.http.get<Genre[]>(`${this.BACKEND_URL}genres`).toPromise();
   }
 }

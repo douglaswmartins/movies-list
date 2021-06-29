@@ -1,0 +1,132 @@
+.input-search {
+  width: 100%;
+  max-width: 500px;
+  font-size: 20px;
+  padding: 5px 5px 5px 40px;
+  border: 0;
+  border-radius: 16px;
+  background: #949494;
+  color: #ffffff;
+}
+
+.wrap-filters i {
+  margin-right: -25px;
+  color: #ffffff;
+  position: relative;
+}
+
+main {
+  width: 100%;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  transition: 2s;
+}
+
+.wrap-filters {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.wrap-movie {
+  width: 100%;
+  cursor: default;
+  transition: all 350ms;
+  transform: translateX(0);
+}
+
+.wrap-movie .poster {
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+  background: #777777;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap-movie .poster i {
+  position: absolute;
+  margin: auto;
+  font-size: 100px;
+  color: #acacac;
+  z-index: 1;
+}
+
+.wrap-movie .poster img {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  object-fit: cover;
+}
+
+.wrap-movie .info {
+  color: #ffffff;
+  padding: 8px;
+  background-color: #000000;
+}
+
+.info h2 {
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.wrap-movie .info p {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.synopsis {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  padding: 10px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-sizing: border-box;
+  backdrop-filter: blur(17px);
+
+  opacity: 0;
+  visibility: hidden;
+  transition: all 350ms;
+
+  z-index: 3;
+}
+
+.synopsis h2 span {
+  font-weight: 300;
+}
+
+.wrap-movie .synopsis span {
+  display: block;
+  font-size: 12px;
+  font-weight: 100;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.wrap-movie .synopsis p {
+  font-size: 13px;
+}
+
+.wrap-movie:hover .synopsis {
+  opacity: 1;
+  visibility: visible;
+}
+
+.wrap-movie:hover {
+  transform: translateY(-10px);
+  box-shadow: 3px 6px 8px 1px black;
+}
+
+.wrap-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
