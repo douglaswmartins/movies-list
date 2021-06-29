@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormArray, FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 
-import { Genre } from '../model/Genre';
-import { MoviesService } from '../movies.service';
+import { Genre } from '../../model/Genre';
+import { MoviesService } from '../../services/movies.service';
 
 @Component({
   selector: 'app-register',

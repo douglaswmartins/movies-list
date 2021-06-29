@@ -3,8 +3,8 @@ import { HttpClient } from '@angular/common/http';
 
 import { environment } from 'src/environments/environment';
 
-import { Movie } from './model/Movie';
-import { Genre } from './model/Genre';
+import { Movie } from '../model/Movie';
+import { Genre } from '../model/Genre';
 
 @Injectable({
   providedIn: 'root'
@@ -24,6 +24,10 @@ export class MoviesService {
     return await this.http.post(`${this.BACKEND_URL}movies`, obj).toPromise();
   }
 
+  async deleteMovie(id: number) {
+    return await this.http.delete(`${this.BACKEND_URL}movies/${id}`).toPromise();
+  }
+  
   async getGenres() {
     return await this.http.get<Genre[]>(`${this.BACKEND_URL}genres`).toPromise();
   }

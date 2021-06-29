@@ -2,7 +2,7 @@
     
   <i class="fas fa-search"></i>
   <input type="text" class="input-search" [(ngModel)]="search"
-        (keyup)="handleSearch()" placeholder="Buscar..." />
+        (keyup)="searchMovie()" placeholder="Buscar..." />
 
 </div>
 
@@ -17,13 +17,15 @@
 
 <main>
 
-  <div class="wrap-movie" *ngFor="let movie of moviesFiltered | reverse">
+  <div class="wrap-movie" *ngFor="let movie of moviesFiltered">
     
     <div class="poster">
       <i class="far fa-image"></i>
       <img [src]="movie.poster" [alt]="movie.title">
 
       <div class="synopsis">
+        <i class="fas fa-trash" (click)="removeMovie(movie)"></i>
+
         <h2>{{ movie.genres.join(' - ') }}</h2>
         <span>Gêneros</span>
 

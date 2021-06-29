@@ -7,16 +7,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
-import { ListComponent } from './list/list.component';
-import { RegisterComponent } from './register/register.component';
-import { ReversePipe } from './pipe/reverse.pipe';
+import { ListComponent } from './views/list/list.component';
+import { RegisterComponent } from './views/register/register.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListComponent,
-    RegisterComponent,
-    ReversePipe
+    RegisterComponent
   ],
   imports: [
     FormsModule,
